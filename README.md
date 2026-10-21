@@ -1,12 +1,13 @@
-# HDFC-Bank-Financial-Performance-Reporting-Dashboard 
-Interactive Tableau dashboard delivering dynamic multi-year financial statement analysis (P&amp;L, Balance Sheet, Cash Flow) across FY22–FY26 using synchronized dual views and parameter controls.
 # 🏦 HDFC Bank: Multi-Year Financial Performance & Statement Analysis (FY22–FY26)
 
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-View_Live_Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/views/HDFCBankFinancialPerformanceReportingDashboard/FinancialDashboard)
 
+<img width="1913" height="950" alt="HDFC Bank – Financial Performance   Reporting Dashboard" src="https://github.com/user-attachments/assets/d0c721d4-7913-4bb1-b95e-58c69d7aac1b" />
+
+
 Interactive Tableau dashboard delivering dynamic multi-year financial statement analysis (P&L, Balance Sheet, Cash Flow) across FY22–FY26 using synchronized dual views and parameter controls.
 
-![HDFC Bank Dashboard](HDFC%20Bank%20–%20Financial%20Performance%20Reporting%20Dashboard.png)
+
 
 ## 📌 Executive Summary
 This project delivers an interactive executive financial dashboard tracking the performance of **HDFC Bank Limited** across five fiscal years (**FY22 through FY26**). 
